@@ -1,0 +1,12 @@
+.heder-about{
+
+    color: black;
+}
+.heder-about span{
+    color: tomato;
+}
+.contianer{
+    text-align: center;
+    width: 70%;
+    margin: auto;
+}
